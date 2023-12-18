@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello! This is Jen 👋
 
-<!--
-**jovisly/jovisly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computational Researcher turned Data Scientist turned Full Stack Engineer.
+I love building useful, algorithm-driven softwares from the ground up.
 
-Here are some ideas to get you started:
+I got my PhD in Physics (large-scale simulations of biological systems). Then I
+worked at [Stanford](https://www.stanford.edu/) and [Google](https://www.google.com/).
+Subsequently I joined a startup as its very first hire.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently, I'm participating in the W1'23 batch of [Recurse Center](https://www.recurse.com/) and loving it!
+- 🛠️ I'm also the n=1 team behind [HeroMode](https://heromodeapp.com/), a gamified task manager that helps you get more done with intrinsic motivation!
+- 💻 My obsession at the moment is Deep Reinforcement Learning
+- 💬 Let's talk about: python, cross-platform development with React Native, ML/AI, algorithms, and zero-to-one product development
